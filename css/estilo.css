@@ -1,0 +1,149 @@
+*
+{
+    margin: 0px;
+}
+.caja1
+{
+    background-color: red;
+    width: 250px;
+    height: 150px;
+    position: fixed;
+    top: 30px;
+    left: 200px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+.caja2
+{
+    background-color: yellow;
+    width: 250px;
+    height: 40px;
+    position: fixed;
+    top: 150px;
+    left: 200px;
+}
+.caja3
+{
+    background-color: red;
+    width: 600px;
+    height: 70px;
+    position: fixed;
+    top: 180px;
+    left: 35px;
+    border-radius: 35px;
+}
+.caja4
+{
+    background-color:rgb(236, 190, 134);
+    width: 450px;
+    height: 400px;
+    position: fixed;
+    top: 230px;
+    left: 110px;
+    border-radius: 200px;
+}
+.caja4-1
+{
+    background-color: white;
+    width: 85px;
+    height: 110px;
+    position: absolute;
+    top: 50px;
+    left: 110px;
+    border-radius: 100%;
+}
+.caja4-1-1
+{
+    background-color: brown;
+    width: 65px;
+    height: 80px;
+    position: absolute;
+    top: 18px;
+    left: 10px;
+    border-radius: 100%;
+}
+.caja4-1-1-1
+{
+    background-color: black;
+    width: 40px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border-radius: 100%;
+}
+.caja5
+{
+    background-color: white;
+    width: 85px;
+    height: 110px;
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    border-radius: 100%;
+}
+.caja6
+{
+    background-color: brown;
+    width: 65px;
+    height: 80px;
+    position: absolute;
+    top: 18px;
+    left: 12px;
+    border-radius: 100%;
+}
+.caja7
+{
+    background-color: black;
+    width: 40px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    left: 12px;
+    border-radius: 100%;
+}
+.caja8
+{
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 140px;
+    left: 170px;
+    border-radius: 100%;
+}
+.caja9
+{
+    background-color: white;
+    width: 250px;
+    height: 80px;
+    position:absolute;
+    top: 280px;
+    left: 100px;
+    border-radius: 0 0 40px 40px;
+}
+.caja9-1
+{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    border-radius: 100%;
+}
+.caja10
+{
+    background-color: greenyellow;
+    width: 300px;
+    height: 50px;
+    position:fixed;
+    top: 700px;
+    left: 200px;
+    border-radius: 100%;
+}
+
+
+
+
+
